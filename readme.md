@@ -1,8 +1,11 @@
 🧪 Este es un ejemplo hipersencillo de app Android -realizada con Android Studio- que usa dos servicios web de un servidor remoto. 
 
 💻 Tambien se incluye el codigo PHP de dichos servicios web, que se conectan a una base de datos para crear/recuperar informacion.
+
 📋 En el directorio /app/ficheros php teneis tanto el codigo PHP de los servicios web, como la instruccion SQL para crear la tabla.
+
 🔐 En el fichero conexion.php se especifican los parametros de conexion con la base de datos.
+
 📱 Volviendo a Android Studio, en codigo java del fichero MainActivity.java se utiliza una constante para especificar la URL del servidor.
 
 🚀 MEJORAS:
